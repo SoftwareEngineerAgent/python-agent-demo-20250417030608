@@ -1,0 +1,19 @@
+```python
+# requirements.txt
+#
+# This file lists the Python packages required for the 'python-agent-demo' project.
+# It is used by pip to install the dependencies and ensure the project runs correctly.
+
+# Core dependencies
+openai
+pytest  # For testing
+
+# Optional dependencies (example - might not be needed depending on the AI agent implementation)
+# requests  # For making HTTP requests (if the agent interacts with APIs)
+# beautifulsoup4 # For parsing HTML (if the agent works with web scraping)
+
+# Example AI Agent libraries - Add the ones you are actually using
+# autogen
+# langchain
+# transformers
+```
